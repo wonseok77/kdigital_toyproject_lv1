@@ -1,1 +1,1 @@
-# kdigital_toyproject_lv1
+# toyproject_lv1
